@@ -4,6 +4,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-add_lunch_combo omni_DiLink4.0-user
-add_lunch_combo omni_DiLink4.0-userdebug
-add_lunch_combo omni_DiLink4.0-eng
+add_lunch_combo twrp_DiLink4.0-user
+add_lunch_combo twrp_DiLink4.0-userdebug
+add_lunch_combo twrp_DiLink4.0-eng
+
