@@ -6,9 +6,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_DiLink4.0.mk
+    $(LOCAL_DIR)/twrp_DiLink4.0.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_DiLink4.0-user \
-    omni_DiLink4.0-userdebug \
-    omni_DiLink4.0-eng
+    twrp_DiLink4.0-user \
+    twrp_DiLink4.0-userdebug \
+    twrp_DiLink4.0-eng
+
